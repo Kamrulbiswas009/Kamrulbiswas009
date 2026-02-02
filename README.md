@@ -55,3 +55,4 @@ I’m a passionate Flutter developer building scalable mobile apps with realtime
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Kamrulbiswas009
+- kamrulbiswas81@gmail.com
