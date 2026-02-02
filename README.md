@@ -1,16 +1,57 @@
 ## Hi there 👋
 
-<!--
-**Kamrulbiswas009/Kamrulbiswas009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Md. Kamrul Ahasun</h1>
+<h3 align="center">Flutter Developer | Realtime & Backend Enthusiast | AI-Driven App Builder</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+I’m a passionate Flutter developer building scalable mobile apps with realtime communication and modern backend services. I enjoy learning new technologies, problem solving, and writing clean code.
+
+📍 Dhaka, Bangladesh
+
+---
+
+## 🛠 Core Skills
+
+### 📱 Mobile & UI
+- Flutter
+- Dart
+
+### 🌐 Backend & APIs
+- Firebase
+- REST API Integration
+- Swagger API Documentation
+
+### 🔁 Realtime & Communication
+- Socket.IO
+- WebRTC (Video/Audio)
+
+### 🧪 Tools
+- Postman (API Testing)
+
+### 💻 Languages
+- Dart
+- Python (Learning)
+- C++ (Learning)
+
+---
+
+## 🚀 Currently Working On
+- AI-Augmented Fitness App
+- Realtime multimedia apps
+- Real time Uber Type App
+- Real time Grocery App
+- Clean and scalable architecture
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamrulbiswas009&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kamrulbiswas009&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Kamrulbiswas009
